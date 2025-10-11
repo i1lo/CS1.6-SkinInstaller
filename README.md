@@ -15,7 +15,7 @@ A simple and efficient skin installer tool for Counter-Strike 1.6, written in C.
 
 - Windows operating system
 - GCC compiler (or any C compiler)
-- Counter-Strike 1.6 installed at: `C:\Jogos\CS Revo\CS 1.6\cstrike\models`
+- Counter-Strike 1.6 installed at default path
 
 ## Installation
 
