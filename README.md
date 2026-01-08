@@ -165,7 +165,7 @@ Contributions are welcome! Suggestions:
 
 ## 👤 Author
 
-**hax**
-GitHub: [https://github.com/6hax](https://github.com/6hax)
+GitHub: [hax](https://github.com/i1lo)
+
 
 
